@@ -1,4 +1,4 @@
-#include<iostram.h>
+#include<iostream.h>
 use namespace std;
 {
 int a;
