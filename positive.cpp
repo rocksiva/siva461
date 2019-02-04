@@ -1,14 +1,14 @@
 #include<iostream.h>
-#include<conio.h>
+using namespace std;
 int a;
 clrscr();
-scanf<<"Enter the value";
+cin<<"Enter the value";
 {
 if(a>0)
-printf>>"positive";
+cout>>"positive";
 elseif(a=0)
-printf>>"zero";
+cout>>"zero";
 else
-printf>>"negative";
+cout>>"negative";
 getch();
 }
